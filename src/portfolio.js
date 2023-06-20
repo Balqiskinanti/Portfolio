@@ -7,11 +7,11 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Balqis Kinanti',
-  role: 'Information Technology Student at Ngee Ann Polytechnic',
+  role: 'Information Technology Graduate',
   description:
-    "Hello! I am Balqis Kinanti. I'm a 20 years old, Indonesian currently pursuing my studies in Singapore. I am chill, determined and curious. My hobbies include building side projects, listening to music, and helping others. I am active in my Co-Curricular activities such as Student Council, Girl Guides, and Mentoring and hold leadership positions for all of them. ",
-  resume: 'https://connectnpedu-my.sharepoint.com/:b:/g/personal/s10204973_connect_np_edu_sg/EVQNmsJ5WClIjADecrRfnogBDVaNm3vfv4aUskG7rexicA?e=uQ9j64',
-  testimonial : 'https://connectnpedu-my.sharepoint.com/:b:/g/personal/s10204973_connect_np_edu_sg/EVhaOKaHdyNOrAHUBvyilSYBSu6SEFupeN2V6TB6kpUvpA?e=2KuQnP',
+    "Hello! My name is Balqis Kinanti. I'm Indonesian and I'm a fresh graduate from Ngee Ann Polytechnic in Singapore. I have a background in IT and wish to pursue Web Development in the future. My hobbies include listening to music, exercising, and creating things. I am active in my Co-Curricular activities such as Student Council, Girl Guides, and Mentoring and have held leadership positions as well. ",
+  resume: 'https://drive.google.com/file/d/1oYsahGQxRs1lXcHttkzCqfA2u4zpbqAj/view?usp=sharing',
+  testimonial : 'https://drive.google.com/file/d/1hPqgCeFySzAJr-2KzetxukvpdVLO8zNJ/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/balqiskinanti/',
     github: 'https://github.com/Balqiskinanti',
@@ -66,7 +66,8 @@ const skills = [
   'Machine Learning',
   'Version Control',
   'Databases',
-  'Agile'
+  'Agile',
+  'Figma/Adobe XD'
 ]
 
 const contact = {
