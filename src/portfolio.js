@@ -9,7 +9,7 @@ const about = {
   name: 'Balqis Kinanti',
   role: 'Information Technology Graduate',
   description:
-    "Hello! My name is Balqis Kinanti. I'm Indonesian and I'm a fresh graduate from Ngee Ann Polytechnic in Singapore. I have a background in IT and wish to pursue Web Development in the future. My hobbies include listening to music, exercising, and creating things. I am active in my Co-Curricular activities such as Student Council, Girl Guides, and Mentoring and have held leadership positions as well. ",
+    "Hello! My name is Balqis. I'm a graduate from Ngee Ann Polytechnic, Singapore, majoring in IT. I currently teach coding for kids from 5-18 years old. I like web development, music, cafe hopping and gym. Check out my portfolio below!",
   resume: 'https://drive.google.com/file/d/1oYsahGQxRs1lXcHttkzCqfA2u4zpbqAj/view?usp=sharing',
   testimonial : 'https://drive.google.com/file/d/1hPqgCeFySzAJr-2KzetxukvpdVLO8zNJ/view?usp=sharing',
   social: {
@@ -67,7 +67,9 @@ const skills = [
   'Version Control',
   'Databases',
   'Agile',
-  'Figma/Adobe XD'
+  'Figma/Adobe XD',
+  'Git',
+  'PHP'
 ]
 
 const contact = {
