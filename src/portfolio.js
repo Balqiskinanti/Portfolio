@@ -9,11 +9,11 @@ const about = {
   name: 'Balqis Kinanti',
   role: 'Information Technology Graduate',
   description:
-    "Hello! My name is Balqis. I'm a graduate from Ngee Ann Polytechnic, Singapore, majoring in IT. I currently teach coding for kids from 5-18 years old. I like web development, music, cafe hopping and gym. Check out my portfolio below!",
+    "Hello! My name is Balqis. I'm an IT graduate from Ngee Ann Polytechnic, Singapore. I teach coding at Timedoor Academy and I was a Data Analyst Intern at KrisShop. I like web development, music, cafe hopping and gym. Check out my portfolio below!",
   resume: 'https://drive.google.com/file/d/1oYsahGQxRs1lXcHttkzCqfA2u4zpbqAj/view?usp=sharing',
   testimonial : 'https://drive.google.com/file/d/1hPqgCeFySzAJr-2KzetxukvpdVLO8zNJ/view?usp=sharing',
   social: {
-    linkedin: 'https://www.linkedin.com/in/balqiskinanti/',
+    linkedin: '',
     github: 'https://github.com/Balqiskinanti',
     instagram: 'https://www.instagram.com/_qnant/'
   },
@@ -25,26 +25,23 @@ const projects = [
   {
     name: 'Kamaemon | iOS Application',
     description:
-      'Volunteering application that lets users post their requests for volunteers to accept. In-app real time chat, map and leaderboard functionalities are also available among many others.',
+      'Volunteering application that lets users post their requests & volunteers to accept. In-app real time chat, map and leaderboard functionalities are available among many others.',
     stack: ['Swift', 'CocoaPods', 'Firebase', 'Azure API'],
-    sourceCode: 'https://github.com/jordanchoi/mad2-p02-assignment-team1-kamaemon',
-    livePreview: 'https://www.youtube.com/watch?v=1pKxL4JJBXo&feature=youtu.be',
+    sourceCode: 'https://github.com/jordanchoi/mad2-p02-assignment-team1-kamaemon'
   },
   {
-    name: 'GreenDemic | Hackathon',
+    name: 'GreenDemic | Web Application Hackathon',
     description:
-      'Web-based application for people to track their food inventories at home by simply scanning barcode. Clinched top 5 position.',
+      "Food inventories tracker that aims to reduce food waste. Scanner is used to identify the product's calories and match it with user's recommended calories intake to reduce overconsumption.",
     stack: ['ASP.NET', 'HTML,CSS,JS', 'SQL', 'Scandit','Azure Database', 'Power BI'],
-    sourceCode: 'https://github.com/Balqiskinanti/GreenDemic',
-    livePreview: 'https://greendemic.azurewebsites.net/',
+    sourceCode: 'https://github.com/Balqiskinanti/GreenDemic'
   },
   {
     name: 'MADFit | Android Application',
     description:
-      'Android application that encourages people to watch their diet, as well as set goals and plans to exercise frequently. In-app music service is also available for users to listen, while working out.',
+      'Android application that encourages people to watch their diet and exercise. In-app music service is also available for users to listen, while working out.',
     stack: ['Java', 'MailChimp'],
-    sourceCode: 'https://github.com/Balqiskinanti/MADFit',
-    livePreview: 'https://play.google.com/store/apps/details?id=sg.edu.np.mad.madfit',
+    sourceCode: 'https://github.com/Balqiskinanti/MADFit'
   },
 ]
 
